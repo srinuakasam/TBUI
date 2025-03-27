@@ -1,0 +1,45 @@
+form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.form-section {
+    flex: 1;
+    min-width: 300px;
+}
+
+mat-form-field {
+    width: 100%;
+}
+
+button {
+    align-self: flex-start;
+}
+
+.patient-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-container {
+    width: 100%;
+    max-width: 800px;
+}
+
+/* New styles for the material table */
+.patient-table {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.mat-header-cell, .mat-cell {
+    padding: 8px;
+}
+
+/* New styles for the delete button */
+.delete-button {
+    color: red;
+    cursor: pointer;
+}

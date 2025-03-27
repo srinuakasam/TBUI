@@ -1,0 +1,162 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "medicalRecordNumber": "MRN12345",
+    "dateOfBirth": "1990-05-15",
+    "age": 34,
+    "gender": "Male"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "medicalRecordNumber": "MRN67890",
+    "dateOfBirth": "1985-08-22",
+    "age": 39,
+    "gender": "Female"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "medicalRecordNumber": "MRN11223",
+    "dateOfBirth": "2000-01-10",
+    "age": 25,
+    "gender": "Male"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Brown",
+    "medicalRecordNumber": "MRN44556",
+    "dateOfBirth": "1993-11-30",
+    "age": 31,
+    "gender": "Female"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Miller",
+    "medicalRecordNumber": "MRN78901",
+    "dateOfBirth": "1980-03-18",
+    "age": 45,
+    "gender": "Male"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Davis",
+    "medicalRecordNumber": "MRN34567",
+    "dateOfBirth": "1992-07-25",
+    "age": 32,
+    "gender": "Female"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Wilson",
+    "medicalRecordNumber": "MRN23456",
+    "dateOfBirth": "1978-11-12",
+    "age": 46,
+    "gender": "Male"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Taylor",
+    "medicalRecordNumber": "MRN12367",
+    "dateOfBirth": "1995-03-05",
+    "age": 30,
+    "gender": "Female"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Moore",
+    "medicalRecordNumber": "MRN19823",
+    "dateOfBirth": "1994-10-10",
+    "age": 30,
+    "gender": "Male"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Anderson",
+    "medicalRecordNumber": "MRN67321",
+    "dateOfBirth": "1982-06-17",
+    "age": 42,
+    "gender": "Female"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Thomas",
+    "medicalRecordNumber": "MRN54902",
+    "dateOfBirth": "1991-04-28",
+    "age": 33,
+    "gender": "Male"
+  },
+  {
+    "firstName": "Isabella",
+    "lastName": "Jackson",
+    "medicalRecordNumber": "MRN68451",
+    "dateOfBirth": "1996-12-14",
+    "age": 28,
+    "gender": "Female"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "White",
+    "medicalRecordNumber": "MRN90587",
+    "dateOfBirth": "1988-09-21",
+    "age": 36,
+    "gender": "Male"
+  },
+  {
+    "firstName": "Charlotte",
+    "lastName": "Harris",
+    "medicalRecordNumber": "MRN67390",
+    "dateOfBirth": "2001-01-25",
+    "age": 24,
+    "gender": "Female"
+  },
+  {
+    "firstName": "Henry",
+    "lastName": "Martin",
+    "medicalRecordNumber": "MRN87542",
+    "dateOfBirth": "1993-12-05",
+    "age": 31,
+    "gender": "Male"
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "Garcia",
+    "medicalRecordNumber": "MRN48290",
+    "dateOfBirth": "1997-08-08",
+    "age": 27,
+    "gender": "Female"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Rodriguez",
+    "medicalRecordNumber": "MRN56473",
+    "dateOfBirth": "1986-05-03",
+    "age": 38,
+    "gender": "Male"
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Martinez",
+    "medicalRecordNumber": "MRN72640",
+    "dateOfBirth": "1994-02-14",
+    "age": 31,
+    "gender": "Female"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Lee",
+    "medicalRecordNumber": "MRN58274",
+    "dateOfBirth": "1992-11-09",
+    "age": 32,
+    "gender": "Male"
+  },
+  {
+    "firstName": "Avery",
+    "lastName": "Perez",
+    "medicalRecordNumber": "MRN98214",
+    "dateOfBirth": "1990-12-22",
+    "age": 34,
+    "gender": "Female"
+  }
+]

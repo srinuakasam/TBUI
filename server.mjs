@@ -1,0 +1,9 @@
+// ...existing code...
+try {
+  // ...existing code...
+} catch (error) {
+  console.error('Error loading module:', error.message);
+  console.error('Stack trace:', error.stack);
+  throw error;
+}
+// ...existing code...

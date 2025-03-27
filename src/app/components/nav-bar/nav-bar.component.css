@@ -1,0 +1,27 @@
+.spacer {
+  flex: 1 1 auto;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-list {
+  list-style-type: none;
+  display: flex;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+}
+
+.active-link {
+  font-weight: bold;
+  color: #fff;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+}
+
+.mat-menu-item {
+  min-width: 200px;
+}
